@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  OPGLWidg.cpp
+  QtWidgetsApplication1.vcxproj -> C:\Users\Q500\Desktop\Lance_Project\RBP\build\QtWidgetsApplication1.exe
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64\realsense2.dll
+  已複製 1 個檔案
